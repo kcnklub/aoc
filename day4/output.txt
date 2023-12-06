@@ -1,0 +1,1597 @@
+
+Card: 0
+Cards won: 5
+1 2 3 4 5 
+Sum: 1
+
+
+Card: 1
+Cards won: 10
+Number of times playing this card: 2
+Adding: 20
+
+Sum: 21
+
+
+Card: 2
+Cards won: 4
+Number of times playing this card: 4
+Adding: 16
+
+Sum: 37
+
+
+Card: 3
+Cards won: 4
+Number of times playing this card: 8
+Adding: 32
+
+Sum: 69
+
+
+Card: 4
+Cards won: 3
+Number of times playing this card: 16
+Adding: 48
+
+Sum: 117
+
+
+Card: 5
+Cards won: 9
+Number of times playing this card: 32
+Adding: 288
+
+Sum: 405
+
+
+Card: 6
+Cards won: 10
+Number of times playing this card: 63
+Adding: 630
+
+Sum: 1035
+
+
+Card: 7
+Cards won: 0
+Number of times playing this card: 122
+Adding: 0
+
+Sum: 1035
+
+
+Card: 8
+Cards won: 2
+Number of times playing this card: 98
+Adding: 196
+
+Sum: 1231
+
+
+Card: 9
+Cards won: 6
+Number of times playing this card: 196
+Adding: 1176
+
+Sum: 2407
+
+
+Card: 10
+Cards won: 4
+Number of times playing this card: 392
+Adding: 1568
+
+Sum: 3975
+
+
+Card: 11
+Cards won: 0
+Number of times playing this card: 686
+Adding: 0
+
+Sum: 3975
+
+
+Card: 12
+Cards won: 1
+Number of times playing this card: 684
+Adding: 684
+
+Sum: 4659
+
+
+Card: 13
+Cards won: 2
+Number of times playing this card: 1368
+Adding: 2736
+
+Sum: 7395
+
+
+Card: 14
+Cards won: 1
+Number of times playing this card: 2052
+Adding: 2052
+
+Sum: 9447
+
+
+Card: 15
+Cards won: 0
+Number of times playing this card: 3680
+Adding: 0
+
+Sum: 9447
+
+
+Card: 16
+Cards won: 0
+Number of times playing this card: 64
+Adding: 0
+
+Sum: 9447
+
+
+Card: 17
+Cards won: 10
+18 19 20 21 22 23 24 25 26 27 
+Sum: 9448
+
+
+Card: 18
+Cards won: 2
+Number of times playing this card: 2
+Adding: 4
+
+Sum: 9452
+
+
+Card: 19
+Cards won: 5
+Number of times playing this card: 4
+Adding: 20
+
+Sum: 9472
+
+
+Card: 20
+Cards won: 6
+Number of times playing this card: 8
+Adding: 48
+
+Sum: 9520
+
+
+Card: 21
+Cards won: 1
+Number of times playing this card: 14
+Adding: 14
+
+Sum: 9534
+
+
+Card: 22
+Cards won: 7
+Number of times playing this card: 28
+Adding: 196
+
+Sum: 9730
+
+
+Card: 23
+Cards won: 8
+Number of times playing this card: 42
+Adding: 336
+
+Sum: 10066
+
+
+Card: 24
+Cards won: 3
+Number of times playing this card: 84
+Adding: 252
+
+Sum: 10318
+
+
+Card: 25
+Cards won: 5
+Number of times playing this card: 164
+Adding: 820
+
+Sum: 11138
+
+
+Card: 26
+Cards won: 5
+Number of times playing this card: 328
+Adding: 1640
+
+Sum: 12778
+
+
+Card: 27
+Cards won: 1
+Number of times playing this card: 648
+Adding: 648
+
+Sum: 13426
+
+
+Card: 28
+Cards won: 0
+Number of times playing this card: 1211
+Adding: 0
+
+Sum: 13426
+
+
+Card: 29
+Cards won: 3
+Number of times playing this card: 563
+Adding: 1689
+
+Sum: 15115
+
+
+Card: 30
+Cards won: 1
+Number of times playing this card: 1098
+Adding: 1098
+
+Sum: 16213
+
+
+Card: 31
+Cards won: 1
+Number of times playing this card: 2032
+Adding: 2032
+
+Sum: 18245
+
+
+Card: 32
+Cards won: 0
+Number of times playing this card: 2596
+Adding: 0
+
+Sum: 18245
+
+
+Card: 33
+Cards won: 10
+34 35 36 37 38 39 40 41 42 43 
+Sum: 18246
+
+
+Card: 34
+Cards won: 0
+Number of times playing this card: 2
+Adding: 0
+
+Sum: 18246
+
+
+Card: 35
+Cards won: 10
+Number of times playing this card: 2
+Adding: 20
+
+Sum: 18266
+
+
+Card: 36
+Cards won: 2
+Number of times playing this card: 4
+Adding: 8
+
+Sum: 18274
+
+
+Card: 37
+Cards won: 8
+Number of times playing this card: 8
+Adding: 64
+
+Sum: 18338
+
+
+Card: 38
+Cards won: 9
+Number of times playing this card: 16
+Adding: 144
+
+Sum: 18482
+
+
+Card: 39
+Cards won: 3
+Number of times playing this card: 28
+Adding: 84
+
+Sum: 18566
+
+
+Card: 40
+Cards won: 1
+Number of times playing this card: 56
+Adding: 56
+
+Sum: 18622
+
+
+Card: 41
+Cards won: 0
+Number of times playing this card: 112
+Adding: 0
+
+Sum: 18622
+
+
+Card: 42
+Cards won: 6
+Number of times playing this card: 56
+Adding: 336
+
+Sum: 18958
+
+
+Card: 43
+Cards won: 4
+Number of times playing this card: 84
+Adding: 336
+
+Sum: 19294
+
+
+Card: 44
+Cards won: 3
+Number of times playing this card: 167
+Adding: 501
+
+Sum: 19795
+
+
+Card: 45
+Cards won: 2
+Number of times playing this card: 334
+Adding: 668
+
+Sum: 20463
+
+
+Card: 46
+Cards won: 1
+Number of times playing this card: 658
+Adding: 658
+
+Sum: 21121
+
+
+Card: 47
+Cards won: 6
+Number of times playing this card: 1316
+Adding: 7896
+
+Sum: 29017
+
+
+Card: 48
+Cards won: 0
+Number of times playing this card: 1373
+Adding: 0
+
+Sum: 29017
+
+
+Card: 49
+Cards won: 2
+Number of times playing this card: 1317
+Adding: 2634
+
+Sum: 31651
+
+
+Card: 50
+Cards won: 1
+Number of times playing this card: 2634
+Adding: 2634
+
+Sum: 34285
+
+
+Card: 51
+Cards won: 1
+Number of times playing this card: 5268
+Adding: 5268
+
+Sum: 39553
+
+
+Card: 52
+Cards won: 0
+Number of times playing this card: 6585
+Adding: 0
+
+Sum: 39553
+
+
+Card: 53
+Cards won: 0
+Number of times playing this card: 1317
+Adding: 0
+
+Sum: 39553
+
+
+Card: 54
+Cards won: 10
+55 56 57 58 59 60 61 62 63 64 
+Sum: 39554
+
+
+Card: 55
+Cards won: 1
+Number of times playing this card: 2
+Adding: 2
+
+Sum: 39556
+
+
+Card: 56
+Cards won: 10
+Number of times playing this card: 4
+Adding: 40
+
+Sum: 39596
+
+
+Card: 57
+Cards won: 1
+Number of times playing this card: 6
+Adding: 6
+
+Sum: 39602
+
+
+Card: 58
+Cards won: 0
+Number of times playing this card: 12
+Adding: 0
+
+Sum: 39602
+
+
+Card: 59
+Cards won: 7
+Number of times playing this card: 6
+Adding: 42
+
+Sum: 39644
+
+
+Card: 60
+Cards won: 2
+Number of times playing this card: 12
+Adding: 24
+
+Sum: 39668
+
+
+Card: 61
+Cards won: 9
+Number of times playing this card: 24
+Adding: 216
+
+Sum: 39884
+
+
+Card: 62
+Cards won: 4
+Number of times playing this card: 48
+Adding: 192
+
+Sum: 40076
+
+
+Card: 63
+Cards won: 2
+Number of times playing this card: 84
+Adding: 168
+
+Sum: 40244
+
+
+Card: 64
+Cards won: 3
+Number of times playing this card: 168
+Adding: 504
+
+Sum: 40748
+
+
+Card: 65
+Cards won: 8
+Number of times playing this card: 335
+Adding: 2680
+
+Sum: 43428
+
+
+Card: 66
+Cards won: 2
+Number of times playing this card: 586
+Adding: 1172
+
+Sum: 44600
+
+
+Card: 67
+Cards won: 3
+Number of times playing this card: 1114
+Adding: 3342
+
+Sum: 47942
+
+
+Card: 68
+Cards won: 9
+Number of times playing this card: 2060
+Adding: 18540
+
+Sum: 66482
+
+
+Card: 69
+Cards won: 3
+Number of times playing this card: 3534
+Adding: 10602
+
+Sum: 77084
+
+
+Card: 70
+Cards won: 0
+Number of times playing this card: 7068
+Adding: 0
+
+Sum: 77084
+
+
+Card: 71
+Cards won: 5
+Number of times playing this card: 5930
+Adding: 29650
+
+Sum: 106734
+
+
+Card: 72
+Cards won: 3
+Number of times playing this card: 11860
+Adding: 35580
+
+Sum: 142314
+
+
+Card: 73
+Cards won: 5
+Number of times playing this card: 20186
+Adding: 100930
+
+Sum: 243244
+
+
+Card: 74
+Cards won: 4
+Number of times playing this card: 40037
+Adding: 160148
+
+Sum: 403392
+
+
+Card: 75
+Cards won: 2
+Number of times playing this card: 80074
+Adding: 160148
+
+Sum: 563540
+
+
+Card: 76
+Cards won: 1
+Number of times playing this card: 148288
+Adding: 148288
+
+Sum: 711828
+
+
+Card: 77
+Cards won: 0
+Number of times playing this card: 290646
+Adding: 0
+
+Sum: 711828
+
+
+Card: 78
+Cards won: 0
+Number of times playing this card: 60224
+Adding: 0
+
+Sum: 711828
+
+
+Card: 79
+Cards won: 4
+80 81 82 83 
+Sum: 711829
+
+
+Card: 80
+Cards won: 10
+Number of times playing this card: 2
+Adding: 20
+
+Sum: 711849
+
+
+Card: 81
+Cards won: 10
+Number of times playing this card: 4
+Adding: 40
+
+Sum: 711889
+
+
+Card: 82
+Cards won: 9
+Number of times playing this card: 8
+Adding: 72
+
+Sum: 711961
+
+
+Card: 83
+Cards won: 0
+Number of times playing this card: 16
+Adding: 0
+
+Sum: 711961
+
+
+Card: 84
+Cards won: 3
+Number of times playing this card: 15
+Adding: 45
+
+Sum: 712006
+
+
+Card: 85
+Cards won: 0
+Number of times playing this card: 30
+Adding: 0
+
+Sum: 712006
+
+
+Card: 86
+Cards won: 4
+Number of times playing this card: 30
+Adding: 120
+
+Sum: 712126
+
+
+Card: 87
+Cards won: 0
+Number of times playing this card: 60
+Adding: 0
+
+Sum: 712126
+
+
+Card: 88
+Cards won: 5
+Number of times playing this card: 45
+Adding: 225
+
+Sum: 712351
+
+
+Card: 89
+Cards won: 2
+Number of times playing this card: 90
+Adding: 180
+
+Sum: 712531
+
+
+Card: 90
+Cards won: 0
+Number of times playing this card: 180
+Adding: 0
+
+Sum: 712531
+
+
+Card: 91
+Cards won: 2
+Number of times playing this card: 148
+Adding: 296
+
+Sum: 712827
+
+
+Card: 92
+Cards won: 1
+Number of times playing this card: 194
+Adding: 194
+
+Sum: 713021
+
+
+Card: 93
+Cards won: 0
+Number of times playing this card: 388
+Adding: 0
+
+Sum: 713021
+
+
+Card: 94
+Cards won: 10
+95 96 97 98 99 100 101 102 103 104 
+Sum: 713022
+
+
+Card: 95
+Cards won: 10
+Number of times playing this card: 2
+Adding: 20
+
+Sum: 713042
+
+
+Card: 96
+Cards won: 10
+Number of times playing this card: 4
+Adding: 40
+
+Sum: 713082
+
+
+Card: 97
+Cards won: 10
+Number of times playing this card: 8
+Adding: 80
+
+Sum: 713162
+
+
+Card: 98
+Cards won: 5
+Number of times playing this card: 16
+Adding: 80
+
+Sum: 713242
+
+
+Card: 99
+Cards won: 0
+Number of times playing this card: 32
+Adding: 0
+
+Sum: 713242
+
+
+Card: 100
+Cards won: 3
+Number of times playing this card: 32
+Adding: 96
+
+Sum: 713338
+
+
+Card: 101
+Cards won: 4
+Number of times playing this card: 64
+Adding: 256
+
+Sum: 713594
+
+
+Card: 102
+Cards won: 7
+Number of times playing this card: 128
+Adding: 896
+
+Sum: 714490
+
+
+Card: 103
+Cards won: 10
+Number of times playing this card: 256
+Adding: 2560
+
+Sum: 717050
+
+
+Card: 104
+Cards won: 3
+Number of times playing this card: 464
+Adding: 1392
+
+Sum: 718442
+
+
+Card: 105
+Cards won: 4
+Number of times playing this card: 927
+Adding: 3708
+
+Sum: 722150
+
+
+Card: 106
+Cards won: 3
+Number of times playing this card: 1788
+Adding: 5364
+
+Sum: 727514
+
+
+Card: 107
+Cards won: 7
+Number of times playing this card: 3572
+Adding: 25004
+
+Sum: 752518
+
+
+Card: 108
+Cards won: 2
+Number of times playing this card: 6672
+Adding: 13344
+
+Sum: 765862
+
+
+Card: 109
+Cards won: 4
+Number of times playing this card: 13344
+Adding: 53376
+
+Sum: 819238
+
+
+Card: 110
+Cards won: 2
+Number of times playing this card: 23845
+Adding: 47690
+
+Sum: 866928
+
+
+Card: 111
+Cards won: 4
+Number of times playing this card: 41018
+Adding: 164072
+
+Sum: 1031000
+
+
+Card: 112
+Cards won: 4
+Number of times playing this card: 82036
+Adding: 328144
+
+Sum: 1359144
+
+
+Card: 113
+Cards won: 2
+Number of times playing this card: 140227
+Adding: 280454
+
+Sum: 1639598
+
+
+Card: 114
+Cards won: 2
+Number of times playing this card: 266854
+Adding: 533708
+
+Sum: 2173306
+
+
+Card: 115
+Cards won: 0
+Number of times playing this card: 530136
+Adding: 0
+
+Sum: 2173306
+
+
+Card: 116
+Cards won: 0
+Number of times playing this card: 348891
+Adding: 0
+
+Sum: 2173306
+
+
+Card: 117
+Cards won: 10
+118 119 120 121 122 123 124 125 126 127 
+Sum: 2173307
+
+
+Card: 118
+Cards won: 3
+Number of times playing this card: 2
+Adding: 6
+
+Sum: 2173313
+
+
+Card: 119
+Cards won: 8
+Number of times playing this card: 4
+Adding: 32
+
+Sum: 2173345
+
+
+Card: 120
+Cards won: 2
+Number of times playing this card: 8
+Adding: 16
+
+Sum: 2173361
+
+
+Card: 121
+Cards won: 2
+Number of times playing this card: 16
+Adding: 32
+
+Sum: 2173393
+
+
+Card: 122
+Cards won: 2
+Number of times playing this card: 30
+Adding: 60
+
+Sum: 2173453
+
+
+Card: 123
+Cards won: 4
+Number of times playing this card: 52
+Adding: 208
+
+Sum: 2173661
+
+
+Card: 124
+Cards won: 2
+Number of times playing this card: 88
+Adding: 176
+
+Sum: 2173837
+
+
+Card: 125
+Cards won: 9
+Number of times playing this card: 146
+Adding: 1314
+
+Sum: 2175151
+
+
+Card: 126
+Cards won: 6
+Number of times playing this card: 292
+Adding: 1752
+
+Sum: 2176903
+
+
+Card: 127
+Cards won: 3
+Number of times playing this card: 496
+Adding: 1488
+
+Sum: 2178391
+
+
+Card: 128
+Cards won: 1
+Number of times playing this card: 935
+Adding: 935
+
+Sum: 2179326
+
+
+Card: 129
+Cards won: 4
+Number of times playing this card: 1870
+Adding: 7480
+
+Sum: 2186806
+
+
+Card: 130
+Cards won: 3
+Number of times playing this card: 2805
+Adding: 8415
+
+Sum: 2195221
+
+
+Card: 131
+Cards won: 3
+Number of times playing this card: 5114
+Adding: 15342
+
+Sum: 2210563
+
+
+Card: 132
+Cards won: 2
+Number of times playing this card: 10228
+Adding: 20456
+
+Sum: 2231019
+
+
+Card: 133
+Cards won: 1
+Number of times playing this card: 20164
+Adding: 20164
+
+Sum: 2251183
+
+
+Card: 134
+Cards won: 0
+Number of times playing this card: 35653
+Adding: 0
+
+Sum: 2251183
+
+
+Card: 135
+Cards won: 10
+136 137 138 139 140 141 142 143 144 145 
+Sum: 2251184
+
+
+Card: 136
+Cards won: 7
+Number of times playing this card: 2
+Adding: 14
+
+Sum: 2251198
+
+
+Card: 137
+Cards won: 10
+Number of times playing this card: 4
+Adding: 40
+
+Sum: 2251238
+
+
+Card: 138
+Cards won: 1
+Number of times playing this card: 8
+Adding: 8
+
+Sum: 2251246
+
+
+Card: 139
+Cards won: 5
+Number of times playing this card: 16
+Adding: 80
+
+Sum: 2251326
+
+
+Card: 140
+Cards won: 9
+Number of times playing this card: 24
+Adding: 216
+
+Sum: 2251542
+
+
+Card: 141
+Cards won: 2
+Number of times playing this card: 48
+Adding: 96
+
+Sum: 2251638
+
+
+Card: 142
+Cards won: 10
+Number of times playing this card: 96
+Adding: 960
+
+Sum: 2252598
+
+
+Card: 143
+Cards won: 7
+Number of times playing this card: 192
+Adding: 1344
+
+Sum: 2253942
+
+
+Card: 144
+Cards won: 10
+Number of times playing this card: 334
+Adding: 3340
+
+Sum: 2257282
+
+
+Card: 145
+Cards won: 7
+Number of times playing this card: 652
+Adding: 4564
+
+Sum: 2261846
+
+
+Card: 146
+Cards won: 9
+Number of times playing this card: 1303
+Adding: 11727
+
+Sum: 2273573
+
+
+Card: 147
+Cards won: 9
+Number of times playing this card: 2606
+Adding: 23454
+
+Sum: 2297027
+
+
+Card: 148
+Cards won: 7
+Number of times playing this card: 5208
+Adding: 36456
+
+Sum: 2333483
+
+
+Card: 149
+Cards won: 3
+Number of times playing this card: 10416
+Adding: 31248
+
+Sum: 2364731
+
+
+Card: 150
+Cards won: 7
+Number of times playing this card: 20808
+Adding: 145656
+
+Sum: 2510387
+
+
+Card: 151
+Cards won: 4
+Number of times playing this card: 41424
+Adding: 165696
+
+Sum: 2676083
+
+
+Card: 152
+Cards won: 1
+Number of times playing this card: 82848
+Adding: 82848
+
+Sum: 2758931
+
+
+Card: 153
+Cards won: 4
+Number of times playing this card: 154532
+Adding: 618128
+
+Sum: 3377059
+
+
+Card: 154
+Cards won: 2
+Number of times playing this card: 226216
+Adding: 452432
+
+Sum: 3829491
+
+
+Card: 155
+Cards won: 2
+Number of times playing this card: 452098
+Adding: 904196
+
+Sum: 4733687
+
+
+Card: 156
+Cards won: 1
+Number of times playing this card: 856261
+Adding: 856261
+
+Sum: 5589948
+
+
+Card: 157
+Cards won: 0
+Number of times playing this card: 1483700
+Adding: 0
+
+Sum: 5589948
+
+
+Card: 158
+Cards won: 4
+159 160 161 162 
+Sum: 5589949
+
+
+Card: 159
+Cards won: 10
+Number of times playing this card: 2
+Adding: 20
+
+Sum: 5589969
+
+
+Card: 160
+Cards won: 7
+Number of times playing this card: 4
+Adding: 28
+
+Sum: 5589997
+
+
+Card: 161
+Cards won: 3
+Number of times playing this card: 8
+Adding: 24
+
+Sum: 5590021
+
+
+Card: 162
+Cards won: 3
+Number of times playing this card: 16
+Adding: 48
+
+Sum: 5590069
+
+
+Card: 163
+Cards won: 4
+Number of times playing this card: 31
+Adding: 124
+
+Sum: 5590193
+
+
+Card: 164
+Cards won: 3
+Number of times playing this card: 62
+Adding: 186
+
+Sum: 5590379
+
+
+Card: 165
+Cards won: 9
+Number of times playing this card: 116
+Adding: 1044
+
+Sum: 5591423
+
+
+Card: 166
+Cards won: 6
+Number of times playing this card: 216
+Adding: 1296
+
+Sum: 5592719
+
+
+Card: 167
+Cards won: 5
+Number of times playing this card: 432
+Adding: 2160
+
+Sum: 5594879
+
+
+Card: 168
+Cards won: 10
+Number of times playing this card: 767
+Adding: 7670
+
+Sum: 5602549
+
+
+Card: 169
+Cards won: 1
+Number of times playing this card: 1534
+Adding: 1534
+
+Sum: 5604083
+
+
+Card: 170
+Cards won: 10
+Number of times playing this card: 3066
+Adding: 30660
+
+Sum: 5634743
+
+
+Card: 171
+Cards won: 0
+Number of times playing this card: 4598
+Adding: 0
+
+Sum: 5634743
+
+
+Card: 172
+Cards won: 6
+Number of times playing this card: 4598
+Adding: 27588
+
+Sum: 5662331
+
+
+Card: 173
+Cards won: 4
+Number of times playing this card: 8548
+Adding: 34192
+
+Sum: 5696523
+
+
+Card: 174
+Cards won: 5
+Number of times playing this card: 17096
+Adding: 85480
+
+Sum: 5782003
+
+
+Card: 175
+Cards won: 1
+Number of times playing this card: 34076
+Adding: 34076
+
+Sum: 5816079
+
+
+Card: 176
+Cards won: 2
+Number of times playing this card: 68152
+Adding: 136304
+
+Sum: 5952383
+
+
+Card: 177
+Cards won: 4
+Number of times playing this card: 102228
+Adding: 408912
+
+Sum: 6361295
+
+
+Card: 178
+Cards won: 2
+Number of times playing this card: 195908
+Adding: 391816
+
+Sum: 6753111
+
+
+Card: 179
+Cards won: 2
+Number of times playing this card: 318299
+Adding: 636598
+
+Sum: 7389709
+
+
+Card: 180
+Cards won: 1
+Number of times playing this card: 619502
+Adding: 619502
+
+Sum: 8009211
+
+
+Card: 181
+Cards won: 0
+Number of times playing this card: 1040030
+Adding: 0
+
+Sum: 8009211
+
+
+Card: 182
+Cards won: 7
+183 184 185 186 187 188 189 
+Sum: 8009212
+
+
+Card: 183
+Cards won: 10
+Number of times playing this card: 2
+Adding: 20
+
+Sum: 8009232
+
+
+Card: 184
+Cards won: 7
+Number of times playing this card: 4
+Adding: 28
+
+Sum: 8009260
+
+
+Card: 185
+Cards won: 10
+Number of times playing this card: 8
+Adding: 80
+
+Sum: 8009340
+
+
+Card: 186
+Cards won: 7
+Number of times playing this card: 16
+Adding: 112
+
+Sum: 8009452
+
+
+Card: 187
+Cards won: 10
+Number of times playing this card: 32
+Adding: 320
+
+Sum: 8009772
+
+
+Card: 188
+Cards won: 10
+Number of times playing this card: 64
+Adding: 640
+
+Sum: 8010412
+
+
+Card: 189
+Cards won: 2
+Number of times playing this card: 128
+Adding: 256
+
+Sum: 8010668
+
+
+Card: 190
+Cards won: 10
+Number of times playing this card: 255
+Adding: 2550
+
+Sum: 8013218
+
+
+Card: 191
+Cards won: 5
+Number of times playing this card: 510
+Adding: 2550
+
+Sum: 8015768
+
+
+Card: 192
+Cards won: 5
+Number of times playing this card: 888
+Adding: 4440
+
+Sum: 8020208
+
+
+Card: 193
+Cards won: 7
+Number of times playing this card: 1776
+Adding: 12432
+
+Sum: 8032640
+
+
+Card: 194
+Cards won: 7
+Number of times playing this card: 3534
+Adding: 24738
+
+Sum: 8057378
+
+
+Card: 195
+Cards won: 0
+Number of times playing this card: 7068
+Adding: 0
+
+Sum: 8057378
+
+
+Card: 196
+Cards won: 0
+Number of times playing this card: 7060
+Adding: 0
+
+Sum: 8057378
+
+
+Card: 197
+Cards won: 0
+Number of times playing this card: 6550
+Adding: 0
+
+Sum: 8057378
+
+
+Card: 198
+Cards won: 0
+Number of times playing this card: 5630
+Adding: 0
+
+Sum: 8057378
+
+
+Card: 199
+Cards won: 0
+Number of times playing this card: 5566
+Adding: 0
+
+Sum: 8057378
+
+
+Card: 200
+Cards won: 1
+Number of times playing this card: 5566
+Adding: 5566
+
+Sum: 8062944
+
+
+Card: 201
+Cards won: 0
+Number of times playing this card: 9101
+Adding: 0
+
+Sum: 8062944
+
+Sum: 8062944
